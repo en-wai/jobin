@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "866823960480",
+    "project_id": "crudjobin",
+    "storage_bucket": "crudjobin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:866823960480:android:9aaec1261ff2752effd6c5",
+        "android_client_info": {
+          "package_name": "com.lekwacious.shopping_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "866823960480-4shd9vn0r0eevv1mj98i56qhbnlhqilo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBV8Yn1LsISUau6TnAclp30dQcrOh2ud4s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "866823960480-4shd9vn0r0eevv1mj98i56qhbnlhqilo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

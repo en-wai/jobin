@@ -20,23 +20,24 @@ dependencies:
   dots_indicator:
   shared_preferences: ^2.0.11
   connectivity: ^3.0.6
-  firebase_core: ^1.2.1
-  firebase_messaging: ^10.0.1
-  flutter_local_notifications: ^5.0.0-nullsafety.1
+  firebase_core: ^1.24.0
+  firebase_messaging: ^13.1.0
+  flutter_local_notifications: ^12.0.1+1
   path_provider: ^2.0.2
   url_strategy: ^0.2.0
   pin_code_fields: ^7.2.0
-  geolocator: ^7.1.0
+  geolocator: ^9.0.2
   geocoding: ^2.0.0
   google_maps_flutter: ^2.0.6
   shimmer_animation: ^2.0.0
   pointer_interceptor: ^0.9.0+1
-  webview_flutter: ^2.0.9
+  webview_flutter: ^3.0.4
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.2
 
-  persistent_bottom_nav_bar: ^4.0.2
+  persistent_bottom_nav_bar_v2: any
+  cloud_firestore: ^3.5.1
 
 dev_dependencies:
   flutter_test:
